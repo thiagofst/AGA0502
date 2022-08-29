@@ -1,1 +1,3 @@
 Gaia DR2 Cepheids: https://vizier.u-strasbg.fr/viz-bin/VizieR-3?-source=I/345/cepheid
+
+Variable Star Type designations in VSX: https://www.aavso.org/vsx/index.php?view=about.vartypes
