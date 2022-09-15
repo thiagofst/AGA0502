@@ -1,4 +1,4 @@
-,starname,HD,HIP,TIC,letter,facility,n_stars,n_planets,discovery_method,year,period,a,planet_radius,planet_mass,density,e,insolation_flux,teff,i,b,K,spectral_type,star_temperature,star_radius,star_mass,star_met,star_luminosity,star_logg,star_age,star_density,star_prot,distance,RA,Dec
+id,starname,HD,HIP,TIC,letter,facility,n_stars,n_planets,discovery_method,year,period,a,planet_radius,planet_mass,density,e,insolation_flux,teff,i,b,K,spectral_type,star_temperature,star_radius,star_mass,star_met,star_luminosity,star_logg,star_age,star_density,star_prot,distance,RA,Dec
 22,Kepler-237,,,TIC 258348597,c,Kepler,1,2,Transit,2014,8.103636,0.071,2.08,4.98,3.04,0.0,60.64,687.0,89.87,0.14,,,4861.0,0.72,0.7,0.03,-0.477,4.58,13.8,1.97075,,657.822,283.2213438,40.421762
 30,Kepler-113,,,TIC 298834019,b,Kepler,1,2,Transit,2014,4.754,0.0502,1.82,11.7,10.73,0.0,105.33,775.0,86.54,0.08,5.4,,4725.0,0.69,0.75,0.05,-0.576,4.64,6.89,2.71,,262.351,287.9978721,50.9441847
 32,Kepler-382,,,TIC 268612521,b,Kepler,1,2,Transit,2014,5.262155,0.055,1.32,2.3,5.5,0.0,381.46,1166.0,85.48,0.6,,,5600.0,0.94,0.88,0.082,0.146,4.4,11.3,0.37659,,935.446,299.1362435,45.8699582
