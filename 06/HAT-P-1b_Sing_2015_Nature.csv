@@ -1,4 +1,4 @@
-Wavelength,microns,Wavelength,bin,size,microns,Rp/R*,Rp/R*,error
+Wavelength_microns,Wavelength,bin_size_microns,Rp/R*,Rp/R*_error
 0.3625,0.0375,0.11884,0.00044
 0.42,0.02,0.11795,0.00036
 0.4575,0.0175,0.11841,0.00036
