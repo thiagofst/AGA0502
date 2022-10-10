@@ -1,4 +1,5 @@
-Exoplanet Atmospheric Spectral Library: https://pages.jh.edu/dsing3/David_Sing/Spectral_Library.html
+#Exoplanet Atmospheric Spectral Library
+https://pages.jh.edu/dsing3/David_Sing/Spectral_Library.html
 
 Refs.
 HAT-P-1b - Nikolov et al. (2014) - https://arxiv.org/abs/1310.0083
